@@ -1,0 +1,221 @@
+{
+  "__version__": "1.2.9",
+  "log": {
+    "level": 4
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1736995613847": {
+        "id": "1736995613847",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2025 09:47 Build success in 50461 ms!",
+        "options": {
+          "name": "Dancer",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "16-01-2025 09:46",
+        "dirty": false
+      },
+      "1736996980191": {
+        "id": "1736996980191",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2025 10:09 Build success in 4362 ms!",
+        "options": {
+          "name": "Dancer",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-001",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "16-01-2025 10:09",
+        "dirty": false
+      },
+      "1736997760103": {
+        "id": "1736997760103",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2025 10:22 Build success in 3070 ms!",
+        "options": {
+          "name": "Dancer",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-002",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "16-01-2025 10:22",
+        "dirty": false
+      },
+      "1736998880515": {
+        "id": "1736998880515",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2025 10:41 Build success in 3050 ms!",
+        "options": {
+          "name": "Dancer",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-003",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "16-01-2025 10:41",
+        "dirty": false
+      },
+      "1736998925222": {
+        "id": "1736998925222",
+        "progress": 1,
+        "state": "success",
+        "message": "16-01-2025 10:42 Build success in 2856 ms!",
+        "options": {
+          "name": "Dancer",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "fb41b0e2-4e95-4611-b0b1-b49142cb353c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-004",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "16-01-2025 10:42",
+        "dirty": false
+      }
+    }
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "name": "Dancer"
+  }
+}

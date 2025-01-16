@@ -1,0 +1,22 @@
+[
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 9.080000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 9.080000]"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 4.566667]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 4.566667]"
+  },
+  {
+    "level": 0,
+    "message": "Take mixamo.com: 4.566666666666666s"
+  }
+]

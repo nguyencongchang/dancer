@@ -1,0 +1,15 @@
+{
+  "version": "2.1.4",
+  "sourceTimeStamp": 1736993748475.594,
+  "outputTimeStamps": {
+    "Ch03_1001_Diffuse.png": 1736993748964.4807,
+    "Ch03_1001_Normal.png": 1736993748979.063,
+    "log.json": 1736993749204.529,
+    "out.bin": 1736993749195.868,
+    "out.gltf": 1736993749203.6733,
+    ".fbm/D1631636/Breakdance Footwork 3 (1).fbm/Ch03_1001_Diffuse.png": 1736993748775.3792,
+    ".fbm/D1631636/Breakdance Footwork 3 (1).fbm/Ch03_1001_Glossiness.png": 1736993748777.3345,
+    ".fbm/D1631636/Breakdance Footwork 3 (1).fbm/Ch03_1001_Normal.png": 1736993748792.9644,
+    ".fbm/D1631636/Breakdance Footwork 3 (1).fbm/Ch03_1001_Specular.png": 1736993748776.842
+  }
+}

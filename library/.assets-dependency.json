@@ -1,0 +1,52 @@
+{
+  "path": {
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.bin"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@3effa": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_baseColor.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@221a5": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_metallicRoughness.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@0089c": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_normal.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@9b633": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_specular_f0.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@9b782": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_0_baseColor.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@50743": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_0_metallicRoughness.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@99ea5": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Body_0_normal.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@006bd": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Material.002_baseColor.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@531b0": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Material.002_normal.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@9c3d2": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Toes_baseColor.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@f7e17": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Toes_normal.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@a2905": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Toes_specular_f0.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@55257": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Claws_baseColor.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@809d9": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Claws_normal.png"
+    ],
+    "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/scene.gltf@b4841": [
+      "/Users/macm1/Codes/Dragon/assets/dragon/charizard_flying_animation_gltf/textures/Eyes_baseColor.png"
+    ]
+  }
+}

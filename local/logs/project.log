@@ -1,0 +1,240 @@
+2025-01-16 09:58:47-log: [Package] menu@1.0.0 enable
+2025-01-16 09:58:47-log: [Package] profile@1.0.0 enable
+2025-01-16 09:58:47-log: [Package] messages@1.0.0 enable
+2025-01-16 09:58:47-log: [Package] program@1.0.0 enable
+2025-01-16 09:58:47-log: [Package] device@1.0.1 enable
+2025-01-16 09:58:47-log: [Package] ui-kit@1.0.1 enable
+2025-01-16 09:58:47-log: [Package] tester@1.0.0 enable
+2025-01-16 09:58:47-log: [Package] preferences@1.0.0 enable
+2025-01-16 09:58:47-log: Setup mods mgr.: 130.221ms
+2025-01-16 09:58:47-log: [Package] engine@1.0.5 enable
+2025-01-16 09:58:49-log: [Package] programming@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] asset-db@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] console@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] scene@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] server@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] utils@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] assets@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] inspector@1.0.0 enable
+2025-01-16 09:58:49-log: [Package] hierarchy@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] preview@1.0.1 enable
+2025-01-16 09:58:50-log: [Package] animator@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] builder@1.2.9 enable
+2025-01-16 09:58:50-log: [Package] node-library@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] shortcuts@1.0.1 enable
+2025-01-16 09:58:50-log: [Package] package-asset@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] reference-image@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] channel-upload-tools@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] runtime-dev-tools@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] alipay-mini-game@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] android@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] baidu-mini-game@1.0.0 enable
+2025-01-16 09:58:50-log: [Package] bytedance-mini-game@1.0.1 enable
+2025-01-16 09:58:50-log: [Package] huawei-agc@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] ios@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] ios-app-clip@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] mac@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] native@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] ohos@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] web-desktop@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] web-mobile@1.0.0 enable
+2025-01-16 09:58:51-log: [Package] wechatgame@1.0.1 enable
+2025-01-16 09:58:51-log: [Package] windows@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] xiaomi-quick-game@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] cocos-play@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] huawei-quick-game@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] link-sure@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] oppo-mini-game@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] qtt@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] vivo-mini-game@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] cocos-service@3.0.1 enable
+2025-01-16 09:58:52-log: [Package] importer@1.0.0 enable
+2025-01-16 09:58:52-log: [Package] extension@3.0.10 enable
+2025-01-16 09:58:52-log: [Im-plugin] Check im-plugin version.
+2025-01-16 09:58:52-log: [Package] im-plugin@3.0.7 enable
+2025-01-16 09:58:52-log: [Package] lightmap@1.0.3 enable
+2025-01-16 09:58:52-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2025-01-16 09:58:52-log: [Scene] begin init
+2025-01-16 09:58:52-log: [Scene] require engine end
+2025-01-16 09:58:52-log: [Scene] Serialize end
+2025-01-16 09:58:52-log: [Scene] configureStartup end
+2025-01-16 09:58:52-info: [Scene] WebGL2 device initialized.
+2025-01-16 09:58:52-log: [Scene] Cocos Creator v3.3.2
+2025-01-16 09:58:52-info: [Scene] Forward render pipeline initialized.
+2025-01-16 09:58:52-log: [Scene] openEngine end
+2025-01-16 09:58:52-log: [Scene] configureEngine end
+2025-01-16 09:58:53-error: get session failed
+2025-01-16 09:58:53-error: {
+  err: Error: write EPROTO 4741762808:error:1000042e:SSL routines:OPENSSL_internal:TLSV1_ALERT_PROTOCOL_VERSION:../../third_party/boringssl/src/ssl/tls_record.cc:594:SSL alert number 70
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+    errno: -100,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+}
+2025-01-16 09:58:53-error: get session failed
+2025-01-16 09:58:53-error: {
+  err: Error: write EPROTO 4741762808:error:1000042e:SSL routines:OPENSSL_internal:TLSV1_ALERT_PROTOCOL_VERSION:../../third_party/boringssl/src/ssl/tls_record.cc:594:SSL alert number 70
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+    errno: -100,
+    code: 'EPROTO',
+    syscall: 'write'
+  }
+}
+2025-01-16 09:58:54-error: getImSetting failed
+2025-01-16 09:58:54-log: [Im-plugin] No online info of im-plugin.
+2025-01-16 09:58:54-error: getImSetting failed
+2025-01-16 10:09:41-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+2025-01-16 10:09:41-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2025-01-16 10:15:15-log: 10:15:15 [DEBUG]: WORKAREA WIDTH 2560.00, HEIGHT 1325.00
+10:15:15 [DEBUG]: FRAME SCALE = 1.00
+10:15:15 [DEBUG]: Project Config:
+10:15:15 [DEBUG]:     project dir: /Applications/Cocos/Creator/3.3.2/CocosCreator.app/Contents/Resources/resources/3d/engine-native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+10:15:15 [DEBUG]:     writable path: $(PROJDIR)/
+10:15:15 [DEBUG]:     script file: $(PROJDIR)/main.js
+10:15:15 [DEBUG]:     frame size: 667 x 375
+10:15:15 [DEBUG]:     frame scale: 1.00
+10:15:15 [DEBUG]:     show console: NO
+10:15:15 [DEBUG]:     write debug log: NO ()
+10:15:15 [DEBUG]:     listen: 
+10:15:15 [DEBUG]:     debugger: none
+10:15:15 [DEBUG]:     add searching path:
+10:15:15 [DEBUG]: 
+
+
+Initializing V8, version: 8.0.426.16
+
+2025-01-16 10:15:15-log: libuv version: 1.23.1-dev
+
+2025-01-16 10:15:15-log: Number of interfaces: 18
+Debugger listening..., visit [
+
+2025-01-16 10:15:15-log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=172.16.0.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.0.199:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.3:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2025-01-16 10:15:15-info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2025-01-16 10:15:15-info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2025-01-16 10:15:15-log: Debugger attached.
+
+2025-01-16 10:15:31-log: 10:15:31 [DEBUG]: WORKAREA WIDTH 2560.00, HEIGHT 1325.00
+10:15:31 [DEBUG]: FRAME SCALE = 1.00
+10:15:31 [DEBUG]: Project Config:
+10:15:31 [DEBUG]:     project dir: /Applications/Cocos/Creator/3.3.2/CocosCreator.app/Contents/Resources/resources/3d/engine-native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+10:15:31 [DEBUG]:     writable path: $(PROJDIR)/
+10:15:31 [DEBUG]:     script file: $(PROJDIR)/main.js
+10:15:31 [DEBUG]:     frame size: 896 x 414
+10:15:31 [DEBUG]:     frame scale: 1.00
+10:15:31 [DEBUG]:     show console: NO
+10:15:31 [DEBUG]:     write debug log: NO ()
+10:15:31 [DEBUG]:     listen: 
+10:15:31 [DEBUG]:     debugger: none
+10:15:31 [DEBUG]:     add searching path:
+10:15:31 [DEBUG]: 
+
+
+Initializing V8, version: 8.0.426.16
+
+2025-01-16 10:15:31-log: libuv version: 1.23.1-dev
+
+2025-01-16 10:15:31-log: Number of interfaces: 18
+Debugger listening..., visit [
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=172.16.0.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.0.199:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.3:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2025-01-16 10:15:32-info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2025-01-16 10:15:32-info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2025-01-16 10:15:32-log: Debugger attached.
+
+2025-01-16 10:17:59-log: 10:17:59 [DEBUG]: WORKAREA WIDTH 2560.00, HEIGHT 1325.00
+10:17:59 [DEBUG]: FRAME SCALE = 1.00
+10:17:59 [DEBUG]: Project Config:
+10:17:59 [DEBUG]:     project dir: /Applications/Cocos/Creator/3.3.2/CocosCreator.app/Contents/Resources/resources/3d/engine-native/simulator/Debug/SimulatorApp-Mac.app/Contents/Resources/
+10:17:59 [DEBUG]:     writable path: $(PROJDIR)/
+10:17:59 [DEBUG]:     script file: $(PROJDIR)/main.js
+10:17:59 [DEBUG]:     frame size: 896 x 414
+10:17:59 [DEBUG]:     frame scale: 1.00
+10:17:59 [DEBUG]:     show console: NO
+10:17:59 [DEBUG]:     write debug log: NO ()
+10:17:59 [DEBUG]:     listen: 
+10:17:59 [DEBUG]:     debugger: none
+10:17:59 [DEBUG]:     add searching path:
+10:17:59 [DEBUG]: 
+
+
+Initializing V8, version: 8.0.426.16
+
+2025-01-16 10:17:59-log: libuv version: 1.23.1-dev
+
+2025-01-16 10:17:59-log: Number of interfaces: 18
+Debugger listening..., visit [
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=172.16.0.2:5086/00010002-0003-4004-8005-000600070008
+
+2025-01-16 10:17:59-log:     devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.0.199:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.3:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2025-01-16 10:18:01-info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2025-01-16 10:18:01-info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2025-01-16 10:18:01-log: Debugger attached.
+
+2025-01-16 10:18:03-log: Number of interfaces: 18
+Debugger listening..., visit [
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=172.16.0.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.0.199:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.3:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.2.2:5086/00010002-0003-4004-8005-000600070008
+    devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5086/00010002-0003-4004-8005-000600070008
+  ] in chrome browser to debug!
+For help see https://nodejs.org/en/docs/inspector
+
+2025-01-16 10:18:05-log: 10:18:03 [DEBUG]: In the constructor of HttpClient!
+10:18:03 [DEBUG]: iShow!
+ScriptEngine::cleanup begin ...
+GC begin ..., (js->native map) size: 2, all objects: 271
+
+2025-01-16 10:18:05-log: GC end ..., (js->native map) size: 2, all objects: 271
+GC begin ..., (js->native map) size: 2, all objects: 271
+
+2025-01-16 10:18:05-log: GC end ..., (js->native map) size: 2, all objects: 271
+
+2025-01-16 10:18:05-log: XMLHttpRequest_finalize, 0x7f89418d4390 ... 
+
+2025-01-16 10:18:05-log: GC begin ..., (js->native map) size: 0, all objects: -1
+Function object is released!
+GC end ..., (js->native map) size: 0, all objects: -1
+
+2025-01-16 10:18:05-log: ScriptEngine::cleanup end ...
+
